@@ -7,7 +7,8 @@ A collection of AutoHotkey scripts for everyday Windows use.
 | Script | Description |
 |---|---|
 | [Symbols](symbols/) | Type Greek letters, units, math symbols and arrows using short trigger words (`alphasym` → α) |
-
+| [Paste Plain Text](paste-plain-text/) | Paste copied text without formatting using `Ctrl + Shift + V` |
+ 
 Each script has its own folder with a README explaining how to use it.
 
 ## Requirements
